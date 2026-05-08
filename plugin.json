@@ -1,0 +1,10 @@
+{
+  "name": "banana-claude",
+  "description": "AI image generation Creative Director powered by Google Gemini Nano Banana models",
+  "author": {
+    "name": "AgriciDaniel",
+    "url": "https://github.com/AgriciDaniel"
+  },
+  "homepage": "https://github.com/AgriciDaniel/banana-claude",
+  "license": "MIT"
+}
